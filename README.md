@@ -35,7 +35,7 @@ Definitely curious about ways to improve design of the game and keep users comin
 Would further love to learn tools to manage state in larger projects, right now there are only a small number of variables, but I am curios to see how large companies manage states in their codebases and the different types of architechture they use for different projects.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
- 
+
 If I had more time, I would implement more levels, wherein the clue playback speeds up and there are more buttons. 
 
 I would thus refactor the CSS to use CSS Grid for the button layout, which gives more control over the positioning. And as a stylistic measure, I would replace the alerts with custom cards for winning and losing. 
@@ -43,11 +43,11 @@ I would thus refactor the CSS to use CSS Grid for the button layout, which gives
 ## Video Walkthrough 
 
 Add your screen recordings for specified implemented features here:
-![losing screen recording](recording1-link-here)
+![losing screen recording](https://www.loom.com/share/86154851b62547d887b9b781d1b2cdb0)
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-url-link-here)
+[My 5-minute Interview Recording](https://youtu.be/8V31eLXSmF0)
 
 
 ## License
