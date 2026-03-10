@@ -1,0 +1,72 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+body {
+    background-color: #5D737E;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h1, p {
+    margin: 10px 10px;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+#gameButtonArea {
+    margin-top: 20px;
+}
+
+button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.startStopBtn {
+    margin-top: 15px;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+.startStopBtn:hover {
+    background-color: #0056b3;
+}
+
+#gameButtonArea button {
+    width: 150px;
+    height: 150px;
+    border: none;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+#btn1 { background-color: lightgreen }
+#btn2 { background-color: pink }
+#btn3 { background-color: lightblue }
+#btn4 { background-color: rgb(244, 244, 138) }
+
+#btn1:active, #btn1.lit { background-color: green }
+#btn2:active, #btn2.lit { background-color: red }
+#btn3:active, #btn3.lit { background-color: blue }
+#btn4:active, #btn4.lit { background-color: yellow }
