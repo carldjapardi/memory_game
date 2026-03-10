@@ -43,7 +43,7 @@ I would thus refactor the CSS to use CSS Grid for the button layout, which gives
 ## Video Walkthrough 
 
 Add your screen recordings for specified implemented features here:
-![losing screen recording](https://www.loom.com/share/86154851b62547d887b9b781d1b2cdb0)
+[losing screen recording](https://www.loom.com/share/86154851b62547d887b9b781d1b2cdb0)
 
 ## Interview Recording URL Link
 
