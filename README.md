@@ -44,6 +44,7 @@ I would thus refactor the CSS to use CSS Grid for the button layout, which gives
 
 Add your screen recordings for specified implemented features here:
 [losing screen recording](https://www.loom.com/share/2ca68a89dd98409b81c869560663876d)
+[winning screen recording](https://www.loom.com/share/a4e5f4dae2c849bba9927a721027ee8e)
 
 ## Interview Recording URL Link
 
